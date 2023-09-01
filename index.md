@@ -4,9 +4,9 @@ layout: page
 
 ## About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://renqianhui.github.io/lora.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Qianhui Ren (Lora, [任千卉](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
 I am an assistant professor majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
 
